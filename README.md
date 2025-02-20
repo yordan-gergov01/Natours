@@ -44,6 +44,7 @@ Natours is a tour booking web application designed to provide users with a seaml
 
 3. Environment Variables: Create a .env file in the root directory and add the following:
    NODE_ENV=development
+   
 PORT=3000
 DATABASE=<Your MongoDB Connection String>
 DATABASE_PASSWORD=<Your MongoDB Password>
@@ -57,7 +58,7 @@ EMAIL_PORT=<Your Email Port>
 STRIPE_SECRET_KEY=<Your Stripe Secret Key>
 STRIPE_WEBHOOK_SECRET=<Your Stripe Webhook Secret>
 
-4. Start the application
+5. Start the application
 
 
 **API Endpoints**
