@@ -46,16 +46,27 @@ Natours is a tour booking web application designed to provide users with a seaml
    NODE_ENV=development
    
 PORT=3000
+
 DATABASE=<Your MongoDB Connection String>
+
 DATABASE_PASSWORD=<Your MongoDB Password>
+
 JWT_SECRET=<Your JWT Secret>
+
 JWT_EXPIRES_IN=90d
+
 JWT_COOKIE_EXPIRES_IN=90
+
 EMAIL_USERNAME=<Your Email Username>
+
 EMAIL_PASSWORD=<Your Email Password>
+
 EMAIL_HOST=<Your Email Host>
+
 EMAIL_PORT=<Your Email Port>
+
 STRIPE_SECRET_KEY=<Your Stripe Secret Key>
+
 STRIPE_WEBHOOK_SECRET=<Your Stripe Webhook Secret>
 
 5. Start the application
